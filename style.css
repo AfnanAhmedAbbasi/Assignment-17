@@ -1,0 +1,241 @@
+*{
+    font-family: sans-serif;
+}
+
+
+.navbar{
+    display: flex;
+    gap: 100px;
+}
+.chats{
+    font-weight: bolder;
+    font-size: 26px;
+
+}
+i{
+    margin-top: 6px;
+    margin-left: 6px;
+}
+i:hover{
+    background-color: gainsboro;
+    width: 25px;
+    border-radius:60px ;
+}
+img{
+    margin-left: -55px;
+}
+img:hover{
+    background-color: gainsboro;
+    border-radius: 60px;
+}
+.search{
+    display: flex;
+    margin-top: 20px;
+    border: 1px solid gray;
+    padding: 6px;
+    border-radius: 11px;
+    margin-right: 949px;
+    border-bottom-width:3px ;
+}
+.icon{
+    position: absolute;
+}
+.text{
+    margin-top: 5px;
+    margin-left: 40px;
+    color: gray;
+    font-weight: 600;
+}
+.jawwad img{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 8px;
+    border-radius: 60px;
+    position: relative;
+}
+.jtext{
+    margin-left: 75px;
+    margin-top: -55px;
+    font-weight: bolder;
+}
+.jtext2{
+    margin-left: 270px;
+    margin-top: -20px;
+    font-weight: 600;
+    color: gray;
+}
+.jtext3{
+    margin-left: 80px;
+    margin-top: 6px;
+    font-weight: 500;
+    color: grey;
+}
+.chat{
+    /* background-color: gainsboro; */
+    height: 69px;
+    border-radius: 10px;
+    margin-top: 13px;
+    margin-right: 950px;
+}
+.jtext8{
+    margin-left: 270px;
+    margin-top: -20px;
+    font-weight: 600;
+    color: green;
+}
+.jtext10{
+    margin-left: 270px;
+    margin-top: -10px;
+    font-weight: 600;
+    background-color: green;
+    color: white;
+    width: 20px;
+    border-radius: 190px;
+    font-size: 11px;
+    text-align: center;
+}
+.border1{
+    border: 1px solid white;
+    margin-top: -670px;
+    height: 47px;
+    margin-left: 383px;
+}
+.image img{
+    display: inline-block;
+    height: 45px;
+    margin-left: 22px;
+    border-radius: 40px;
+
+}
+.meer{
+    margin-top: -40px;
+    margin-left: 80px;
+    font-weight: bolder;
+
+}
+.vedio i{
+    margin-left: 800px;
+    margin-top: -20px;
+    position: absolute;
+    align-items: center;
+}
+.voice i{
+    margin-left: 850px;
+    margin-top: -20px;
+    position: absolute;
+    align-items: center;
+}
+.hmm i{
+    margin-left: 900px;
+    margin-top: -20px;
+    position: absolute;
+    align-items: center;
+}
+.online{
+    margin-top: -5px;
+    margin-left: 80px;
+    font-weight: 400;
+    color: gray;
+    position: absolute;
+
+}
+.bkimage img{
+    margin-left: 390px;
+    height: 550px;
+    width: 940px;
+}
+.para1{
+    margin-top: -500px;
+    position: absolute;
+    margin-left: 450px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+  font-weight: 600;
+}
+.para2{
+    margin-top: -450px;
+    position: absolute;
+    margin-left: 450px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+  font-weight: 600;
+}
+.para2{
+    margin-top: -450px;
+    position: absolute;
+    margin-left: 450px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+}
+.para3{
+    margin-top: -400px;
+    position: absolute;
+    margin-left: 450px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+  font-weight: 600;
+}
+.para4{
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 1150px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color:darkseagreen;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+  color: black;
+  font-weight: 600;
+}
+.para5{
+    margin-top: -100px;
+    position: absolute;
+    margin-left: 450px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    background-color: white;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 0;
+  font-weight: 600;
+}
+.border2{
+    border: 1px solid white;
+    margin-top: px;
+    height: 47px;
+    margin-left: 383px;
+}
+.smile{
+    margin-top: 9px;
+    margin-left: 20px;
+
+}
+.sen{
+    margin-top: -18px;
+    margin-left: 140px;
+    font-weight: 600;
+    color: gray;
+}
